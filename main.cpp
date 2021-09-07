@@ -10,4 +10,6 @@ cin>>sheep;
 for(i=0;i<sheep;i++)
 cout<<"Total sheep is counted: " <<i<<endl;
 
+cout<<"Good Night";
+
 }
